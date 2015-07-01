@@ -1,0 +1,11 @@
+#+title: fit-emacs-bit
+
+Interface to the fitbit api from emacs
+
+* Status
+
+  Just an Idea.  Don't get excited yet. 
+
+* Mission
+  Simple, painless, quasi-Functional interface to the fitbit api, making it easy to perform quantified self measurements.  
+
